@@ -1,0 +1,59 @@
+h1 {
+    font-family: fantasy;
+    color: purple;
+    font-size: 30px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    text-decoration: solid;
+}
+
+ol {
+    font-weight: bold;
+}
+
+li {
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 30px;
+    background-color: lightpink;
+    color: blue;
+    padding-left: 30px;
+    
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h3 {
+    text-decoration: underline;
+    text-align: center;
+    font-family: Georgia;
+    color: plum;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: purple;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+}
+
+div {
+    text-align: center;
+    color: purple;
+}
